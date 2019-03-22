@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DB>
+  <datadisk DatadiskName="BFA">
+    <Servers ServerName="Monster-Wow" ConfigPath="" RealmList="" ExePath="D:\gamesy\Wow BFA\Arctium WoW Client Patcher.exe" Website="https://monster-wow.com/" patchVersion="8.0">
+      <Acc AccountName="martykolarik@seznam.cz" AccountPassword="94" CharacterInfo="Forum: smithkolarik" />
+    </Servers>
+  </datadisk>
+  <datadisk DatadiskName="CATA" iconPath="">
+    <Servers ServerName="Twinstar" ConfigPath="" RealmList="wow.twinstar.cz" ExePath="" Website="https://www.twinstar.cz/" patchVersion="4.3.4">
+      <Acc AccountName="Smithkolarik" AccountPassword="6c" CharacterInfo="85 pally" />
+      <Acc AccountName="Martan199492" AccountPassword="92" CharacterInfo="85 warlock" />
+    </Servers>
+    <Servers ServerName="Ice WoW" ConfigPath="" RealmList="" ExePath="" Website="http://ice-wow.eu/" patchVersion="">
+      <Acc AccountName="martan199492 " AccountPassword="41b73a3773" CharacterInfo="" />
+      <Acc AccountName="malinka123" AccountPassword="41b73a3773" CharacterInfo="" />
+      <Acc AccountName="Martan199492" AccountPassword="**94" CharacterInfo="" />
+    </Servers>
+    <Servers ServerName="Monster WoW" ConfigPath="" RealmList="logon.monster-wow.com" ExePath="" Website="https://monster-wow.com/" patchVersion="4.3.4">
+      <Acc AccountName="Smithkolarik" AccountPassword="**92" CharacterInfo="85 warrior" />
+      <Acc AccountName="Smihkolarik1994" AccountPassword="**94" CharacterInfo="85 pala priest warlock" />
+      <Acc AccountName="Martan199492" AccountPassword="94" CharacterInfo="201 DP 260 VP" />
+    </Servers>
+    <Servers ServerName="Atlantis" ConfigPath="" RealmList="play.atlantiss.eu" ExePath="" Website="http://atlantiss.eu/" patchVersion="">
+      <Acc AccountName="smithkolarik" AccountPassword="*92" CharacterInfo="" />
+    </Servers>
+  </datadisk>
+  <datadisk DatadiskName="LEGION" iconPath="">
+    <Servers ServerName="Monster WoW" ConfigPath="E:/gamesy/wow legion/WTF/Config.wtf" RealmList="&quot;legion.monster-wow.com&quot;" ExePath="E:/gamesy/wow legion/MWow64.exe" Website="https://monster-wow.com/" patchVersion="7.1.5">
+      <Acc AccountName="martykolarik@seznam.cz" AccountPassword="92 migration1" CharacterInfo="110 paladin 840 ilvl          DP17 VP 1667&#xA;Stranky: Smithkolarik" />
+      <Acc AccountName="martykolarik@gmail.com" AccountPassword="94" CharacterInfo="110 warlock 830 ilvl             121 DP 503 VP&#xA;Stranky Martan199492" />
+      <Acc AccountName="Smihkolarik1994" AccountPassword="94" CharacterInfo="33 DP 255VP&#xA;Stránky: Smihkolarik1994" />
+    </Servers>
+    <Servers ServerName="WoW Freakz" ConfigPath="D:/gamesy/wow legion/WTF/Config.wtf" RealmList="&quot;EU.wow-freakz.com&quot;" ExePath="D:/gamesy/wow legion/launcher_freakz-64.exe" Website="https://www.wow-freakz.com/" patchVersion="7.2.5">
+      <Acc AccountName="Martykolarik@seznam.cz" AccountPassword="*94" CharacterInfo="110 lvl pala 900 ilvl &#xA;web: smithkolarik&#xA;Doom ingnore" />
+      <Acc AccountName="Martykolarik@gmail.com" AccountPassword="*94" CharacterInfo="web martan1994" />
+      <Acc AccountName="mrvitel@atlas.cz" AccountPassword="*94" CharacterInfo="warlock 110&#xA;web: martan199492" />
+    </Servers>
+    <Servers ServerName="Firestorm" ConfigPath="D:/gamesy/wow legion/WTF/Config.wtf" RealmList="&quot;legion.logon.firestorm-servers.com&quot;" ExePath="D:/gamesy/wow legion/Firestorm-64.exe" Website="https://firestorm-servers.com/en/" patchVersion="7.3.5">
+      <Acc AccountName="martykolarik@gmail.com" AccountPassword="94" CharacterInfo="110 paladin" />
+    </Servers>
+  </datadisk>
+  <datadisk DatadiskName="MOP" iconPath="">
+    <Servers ServerName="Warmane" ConfigPath="E:/gamesy/Mists of Pandaria 5.4.8 Minimal/WTF/Config.wtf" RealmList="&quot;logon.warmane.com&quot;" ExePath="E:\gamesy\Mists of Pandaria 5.4.8 Minimal/Wow.exe" Website="http://www.warmane.com/" patchVersion="5.4.8">
+      <Acc AccountName="smithkolarik" AccountPassword="*6c" CharacterInfo="90Lock ,90Holy Paladin" />
+    </Servers>
+  </datadisk>
+  <datadisk DatadiskName="WOTLK" iconPath="">
+    <Servers ServerName="Anathema" ConfigPath="Z:\MARTIN\WOWS\WoWwotlk\Data\enUS/realmlist.wtf" RealmList="anathema.project-nemesis.cz" ExePath="" Website="https://anathema.project-nemesis.cz/novinky/" patchVersion="">
+      <Acc AccountName="Smithkolarik1" AccountPassword="jE231ORh" CharacterInfo="" />
+    </Servers>
+    <Servers ServerName="Abysal" ConfigPath="" RealmList="" ExePath="" Website="" patchVersion="">
+      <Acc AccountName="martan199492" AccountPassword="*94" CharacterInfo="" />
+      <Acc AccountName="Smithkolarik" AccountPassword="*94" CharacterInfo="" />
+    </Servers>
+    <Servers ServerName="Twinstar" ConfigPath="Z:\MARTIN\WOWS\WoWwotlk\Data\enUS/realmlist.wtf" RealmList="wow.twinstar.cz" ExePath="Z:\MARTIN\WOWS\WoWwotlk/Wow.exe" Website="https://www.twinstar.cz/" patchVersion="3.3.5a">
+      <Acc AccountName="Martan199492" AccountPassword="92" CharacterInfo="80 paladin" />
+      <Acc AccountName="malinka123" AccountPassword="soulcorpse3" CharacterInfo="" />
+    </Servers>
+  </datadisk>
+</DB>

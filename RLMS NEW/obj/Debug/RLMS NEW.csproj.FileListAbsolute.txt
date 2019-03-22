@@ -1,0 +1,76 @@
+C:\Users\marty\source\repos\RLMS NEW\RLMS NEW\bin\Debug\RLMS NEW.exe.config
+C:\Users\marty\source\repos\RLMS NEW\RLMS NEW\bin\Debug\RLMS NEW.exe
+C:\Users\marty\source\repos\RLMS NEW\RLMS NEW\bin\Debug\RLMS NEW.pdb
+C:\Users\marty\source\repos\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.csprojResolveAssemblyReference.cache
+C:\Users\marty\source\repos\RLMS NEW\RLMS NEW\obj\Debug\RLMS_NEW.Form1.resources
+C:\Users\marty\source\repos\RLMS NEW\RLMS NEW\obj\Debug\RLMS_NEW.Properties.Resources.resources
+C:\Users\marty\source\repos\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.csproj.GenerateResource.Cache
+C:\Users\marty\source\repos\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.exe
+C:\Users\marty\source\repos\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.pdb
+C:\Users\marty\source\repos\RLMS NEW\RLMS NEW\obj\Debug\RLMS_NEW.AddServerForm.resources
+C:\Users\marty\source\repos\RLMS NEW\RLMS NEW\obj\Debug\RLMS_NEW.AccAddForm.resources
+C:\Users\marty\OneDrive\OWN programs\RLMS NEW\RLMS NEW\bin\Debug\RLMS NEW.exe.config
+C:\Users\marty\OneDrive\OWN programs\RLMS NEW\RLMS NEW\bin\Debug\RLMS NEW.exe
+C:\Users\marty\OneDrive\OWN programs\RLMS NEW\RLMS NEW\bin\Debug\RLMS NEW.pdb
+C:\Users\marty\OneDrive\OWN programs\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.csprojResolveAssemblyReference.cache
+C:\Users\marty\OneDrive\OWN programs\RLMS NEW\RLMS NEW\obj\Debug\RLMS_NEW.AccAddForm.resources
+C:\Users\marty\OneDrive\OWN programs\RLMS NEW\RLMS NEW\obj\Debug\RLMS_NEW.AddServerForm.resources
+C:\Users\marty\OneDrive\OWN programs\RLMS NEW\RLMS NEW\obj\Debug\RLMS_NEW.Form1.resources
+C:\Users\marty\OneDrive\OWN programs\RLMS NEW\RLMS NEW\obj\Debug\RLMS_NEW.Properties.Resources.resources
+C:\Users\marty\OneDrive\OWN programs\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.csproj.GenerateResource.Cache
+C:\Users\marty\OneDrive\OWN programs\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.csproj.CoreCompileInputs.cache
+C:\Users\marty\OneDrive\OWN programs\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.exe
+C:\Users\marty\OneDrive\OWN programs\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.pdb
+C:\Users\marty\Desktop\RLMS NEW\RLMS NEW\bin\Debug\RLMS NEW.exe.config
+C:\Users\marty\Desktop\RLMS NEW\RLMS NEW\bin\Debug\RLMS NEW.exe
+C:\Users\marty\Desktop\RLMS NEW\RLMS NEW\bin\Debug\RLMS NEW.pdb
+C:\Users\marty\Desktop\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.csprojAssemblyReference.cache
+C:\Users\marty\Desktop\RLMS NEW\RLMS NEW\obj\Debug\RLMS_NEW.AccAddForm.resources
+C:\Users\marty\Desktop\RLMS NEW\RLMS NEW\obj\Debug\RLMS_NEW.AddServerForm.resources
+C:\Users\marty\Desktop\RLMS NEW\RLMS NEW\obj\Debug\RLMS_NEW.Form1.resources
+C:\Users\marty\Desktop\RLMS NEW\RLMS NEW\obj\Debug\RLMS_NEW.Home_screen.resources
+C:\Users\marty\Desktop\RLMS NEW\RLMS NEW\obj\Debug\RLMS_NEW.Properties.Resources.resources
+C:\Users\marty\Desktop\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.csproj.GenerateResource.cache
+C:\Users\marty\Desktop\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.csproj.CoreCompileInputs.cache
+C:\Users\marty\Desktop\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.exe
+C:\Users\marty\Desktop\RLMS NEW\RLMS NEW\obj\Debug\RLMS NEW.pdb
+C:\Users\marty\Desktop\RLMS NG\RLMS NEW\bin\Debug\RLMS NEW.exe.config
+C:\Users\marty\Desktop\RLMS NG\RLMS NEW\bin\Debug\RLMS NEW.exe
+C:\Users\marty\Desktop\RLMS NG\RLMS NEW\bin\Debug\RLMS NEW.pdb
+C:\Users\marty\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.csprojAssemblyReference.cache
+C:\Users\marty\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.AccAddForm.resources
+C:\Users\marty\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.AddServerForm.resources
+C:\Users\marty\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.Form1.resources
+C:\Users\marty\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.Home_screen.resources
+C:\Users\marty\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.Properties.Resources.resources
+C:\Users\marty\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.csproj.GenerateResource.cache
+C:\Users\marty\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.csproj.CoreCompileInputs.cache
+C:\Users\marty\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.exe
+C:\Users\marty\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.pdb
+D:\OneDrive\Desktop\RLMS NG\RLMS NEW\bin\Debug\RLMS NEW.exe.config
+D:\OneDrive\Desktop\RLMS NG\RLMS NEW\bin\Debug\RLMS NEW.exe
+D:\OneDrive\Desktop\RLMS NG\RLMS NEW\bin\Debug\RLMS NEW.pdb
+D:\OneDrive\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.AccAddForm.resources
+D:\OneDrive\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.AddServerForm.resources
+D:\OneDrive\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.Form1.resources
+D:\OneDrive\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.Home_screen.resources
+D:\OneDrive\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.Properties.Resources.resources
+D:\OneDrive\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.csproj.GenerateResource.cache
+D:\OneDrive\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.exe
+D:\OneDrive\Desktop\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.pdb
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\bin\Debug\RLMS NEW.exe.config
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\bin\Debug\RLMS NEW.exe
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\bin\Debug\RLMS NEW.pdb
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.csprojAssemblyReference.cache
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.AccAddForm.resources
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.AddServerForm.resources
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.Form1.resources
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.Home_screen.resources
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Debug\RLMS_NEW.Properties.Resources.resources
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.csproj.GenerateResource.cache
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.csproj.CoreCompileInputs.cache
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.exe
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Debug\RLMS NEW.pdb

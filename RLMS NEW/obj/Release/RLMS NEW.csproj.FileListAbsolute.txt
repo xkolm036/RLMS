@@ -1,0 +1,13 @@
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\bin\Release\RLMS NEW.exe.config
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\bin\Release\RLMS NEW.exe
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\bin\Release\RLMS NEW.pdb
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Release\RLMS NEW.csprojAssemblyReference.cache
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Release\RLMS_NEW.AccAddForm.resources
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Release\RLMS_NEW.AddServerForm.resources
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Release\RLMS_NEW.Form1.resources
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Release\RLMS_NEW.Home_screen.resources
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Release\RLMS_NEW.Properties.Resources.resources
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Release\RLMS NEW.csproj.GenerateResource.cache
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Release\RLMS NEW.csproj.CoreCompileInputs.cache
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Release\RLMS NEW.exe
+D:\OneDrive\OWN programs\RLMS NG\RLMS NEW\obj\Release\RLMS NEW.pdb
