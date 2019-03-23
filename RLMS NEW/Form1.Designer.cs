@@ -115,7 +115,7 @@
             // 
             this.textBoxWeb.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBoxWeb.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.textBoxWeb.Location = new System.Drawing.Point(399, 42);
+            this.textBoxWeb.Location = new System.Drawing.Point(399, 40);
             this.textBoxWeb.Name = "textBoxWeb";
             this.textBoxWeb.Size = new System.Drawing.Size(302, 24);
             this.textBoxWeb.TabIndex = 17;
@@ -135,10 +135,11 @@
             // 
             // textBoxPversion
             // 
+            this.textBoxPversion.BackColor = System.Drawing.SystemColors.Window;
             this.textBoxPversion.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBoxPversion.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.textBoxPversion.ForeColor = System.Drawing.SystemColors.Control;
-            this.textBoxPversion.Location = new System.Drawing.Point(452, 12);
+            this.textBoxPversion.ForeColor = System.Drawing.Color.Black;
+            this.textBoxPversion.Location = new System.Drawing.Point(452, 4);
             this.textBoxPversion.Name = "textBoxPversion";
             this.textBoxPversion.Size = new System.Drawing.Size(134, 24);
             this.textBoxPversion.TabIndex = 19;
@@ -149,7 +150,7 @@
             // 
             this.LabelPatch.AutoSize = true;
             this.LabelPatch.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.LabelPatch.Location = new System.Drawing.Point(305, 12);
+            this.LabelPatch.Location = new System.Drawing.Point(305, 6);
             this.LabelPatch.Name = "LabelPatch";
             this.LabelPatch.Size = new System.Drawing.Size(141, 22);
             this.LabelPatch.TabIndex = 18;
@@ -333,9 +334,9 @@
             // label_line
             // 
             this.label_line.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.label_line.Location = new System.Drawing.Point(12, 68);
+            this.label_line.Location = new System.Drawing.Point(12, 71);
             this.label_line.Name = "label_line";
-            this.label_line.Size = new System.Drawing.Size(1123, 2);
+            this.label_line.Size = new System.Drawing.Size(1123, 1);
             this.label_line.TabIndex = 47;
             this.label_line.Text = "label1";
             // 

@@ -25,7 +25,7 @@
     </Servers>
   </datadisk>
   <datadisk DatadiskName="LEGION" iconPath="">
-    <Servers ServerName="Monster WoW" ConfigPath="E:/gamesy/wow legion/WTF/Config.wtf" RealmList="&quot;legion.monster-wow.com&quot;" ExePath="E:/gamesy/wow legion/MWow64.exe" Website="https://monster-wow.com/" patchVersion="7.1.5">
+    <Servers ServerName="Monster WoW" ConfigPath="E:/gamesy/wow legion/WTF/Config.wtf" RealmList="&quot;legion.monster-wow.com&quot;" ExePath="E:/gamesy/wow legion/MWow64.exe" Website="https://monster-wow.com/" patchVersion="7.1.5 ">
       <Acc AccountName="martykolarik@seznam.cz" AccountPassword="92 migration1" CharacterInfo="110 paladin 840 ilvl          DP17 VP 1667&#xA;Stranky: Smithkolarik" />
       <Acc AccountName="martykolarik@gmail.com" AccountPassword="94" CharacterInfo="110 warlock 830 ilvl             121 DP 503 VP&#xA;Stranky Martan199492" />
       <Acc AccountName="Smihkolarik1994" AccountPassword="94" CharacterInfo="33 DP 255VP&#xA;Stránky: Smihkolarik1994" />
