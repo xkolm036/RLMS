@@ -332,7 +332,7 @@ namespace RLMS_NEW
             this.Hide();
             Fa.ShowDialog();
             this.Show();
-            if (AppData.selectedDatadisk.datadiskName == null)
+            if (AppData.selectedDatadisk == null)
             {
                 fillDatadisk();
                
@@ -369,12 +369,10 @@ namespace RLMS_NEW
                 AppData.selectedDatadisk.datadiskName = name;
                 fillServerToLayout(AppData.selectedDatadisk.datadiskName);
             }
-                
-        
 
-
-         
 
         }
+
+
     }
 }

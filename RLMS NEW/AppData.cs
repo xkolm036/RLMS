@@ -10,7 +10,7 @@ namespace RLMS_NEW
     {
         public static List<Models.Datadisk> Database { get; set; } = null;
         public static Server selectedServer { get; set; } = new Server();
-        public static Models.Datadisk selectedDatadisk { get; set; } = new Models.Datadisk();
+        public static Models.Datadisk selectedDatadisk { get; set; } = null;
         
 
     }
